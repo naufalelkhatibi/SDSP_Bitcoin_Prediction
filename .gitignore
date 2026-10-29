@@ -1,0 +1,23 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+report/*.aux
+report/*.log
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.synctex.gz
+literature/papers/*.pdf
+report/*.fls
+report/*.fdb_latexmk
+report/*.toc
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.env
+
+# notebook outputs (figures and tables, regenerated on every run)
+results/
