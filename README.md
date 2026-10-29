@@ -3,7 +3,7 @@
 **EE4795 Statistical Digital Signal Processing**, TU Delft 2026/27 Q1, Project 9
 Naufal el Khatibi (5315778) · Omar Shousha (6026508)
 
-📄 **Report:** [`report/report.pdf`](report/report.pdf) · 📓 **Code:** [`code/btc_prediction.ipynb`](code/btc_prediction.ipynb)
+ **Report:** [`report/report.pdf`](report/report.pdf) ·  **Code:** [`code/btc_prediction.ipynb`](code/btc_prediction.ipynb)
 
 ## Summary
 
